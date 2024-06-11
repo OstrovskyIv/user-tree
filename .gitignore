@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # Конец https://www.toptal.com/developers/gitignore/api/windows
+/.vs/user-treee/FileContentIndex
