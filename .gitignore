@@ -26,3 +26,4 @@ $RECYCLE.BIN/
 
 # Конец https://www.toptal.com/developers/gitignore/api/windows
 /.vs/user-treee/FileContentIndex
+/.vs
